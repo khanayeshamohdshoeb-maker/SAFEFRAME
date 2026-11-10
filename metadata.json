@@ -1,0 +1,7 @@
+{
+  "name": "SAFEFRAME",
+  "description": "AI-powered Incident Intelligence and Privacy Protection platform that transforms scattered safety evidence into structured, privacy-aware incident records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
